@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wolf-icon-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#020617"/>
+  <path d="M256 86L308 162L348 260L334 320L324 380L256 426L188 380L178 320L164 260L204 162Z" fill="url(#wolf-icon-gradient)"/>
+  <path d="M256 188C294 188 328 226 321 274C314 322 282 352 256 352C230 352 198 322 191 274C184 226 218 188 256 188Z" fill="#cbd5f5" opacity="0.6"/>
+  <circle cx="298" cy="248" r="24" fill="#facc15"/>
+  <circle cx="294" cy="244" r="12" fill="#0f172a"/>
+  <circle cx="298" cy="240" r="6" fill="#f8fafc"/>
+  <path d="M156 360Q256 320 356 360" stroke="#38bdf8" stroke-width="18" stroke-linecap="round" opacity="0.4"/>
+  <path d="M150 400Q256 360 362 400" stroke="#8b5cf6" stroke-width="14" stroke-linecap="round" opacity="0.25"/>
+</svg>
